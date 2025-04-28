@@ -1,0 +1,182 @@
+[
+  {
+    "context": {
+      "type": "Initial Recruiter Screen",
+      "duration_minutes": "20-30",
+      "aims": [
+        "Assess background",
+        "Assess motivation",
+        "Assess basic qualifications",
+        "Assess salary alignment",
+        "Assess cultural fit",
+        "Allow candidates to ask questions"
+      ],
+      "ideal_response_time_minutes": "1-2",
+      "practice_date_reference": "as of April 28, 2025"
+    }
+  },
+  {
+    "general_rubric_key": {
+      "Excellent": "Directly addresses the question, concise, highly relevant, demonstrates thoughtfulness/preparation, aligns well with role/company goals as described in the article.",
+      "Good": "Addresses the question adequately, mostly relevant and concise, shows reasonable understanding/preparation.",
+      "Fair": "Addresses the question but may be slightly off-topic, rambling, generic, or lacks clear relevance/conviction.",
+      "Poor": "Fails to answer the question clearly, irrelevant, unprofessional, shows lack of preparation or interest."
+    }
+  },
+  {
+    "category": "Background and Experience",
+    "question_number": 1,
+    "question_text": "Tell me about yourself.",
+    "notes": null,
+    "expected_response": "A concise (1-2 min) overview of their professional background, key skills, and experience *relevant* to the role they are applying for. Should connect their history to the job opportunity. Avoid excessive personal details or rambling.",
+    "grading_rubric": {
+      "excellent": "Highly relevant summary, links experience clearly to the role, professional, concise.",
+      "good": "Relevant overview, covers key points, mostly concise.",
+      "fair": "A bit generic or rambling, relevance to the role could be clearer.",
+      "poor": "Unfocused, overly personal, fails to connect experience to the role, too long/short."
+    }
+  },
+  {
+    "category": "Background and Experience",
+    "question_number": 2,
+    "question_text": "Can you describe your current job responsibilities?",
+    "notes": null,
+    "expected_response": "Clear description of their main duties and accomplishments in their current/most recent role, highlighting aspects that overlap with or prepare them for the target position.",
+    "grading_rubric": {
+      "excellent": "Clear, concise description, emphasizes relevant responsibilities and achievements.",
+      "good": "Describes responsibilities well, some relevance highlighted.",
+      "fair": "Vague description or relevance to the target role is unclear.",
+      "poor": "Unclear, disorganized, unable to articulate responsibilities effectively."
+    }
+  },
+  {
+    "category": "Background and Experience",
+    "question_number": 3,
+    "question_text": "How do your skills and experience make you a good fit for this role?",
+    "notes": null,
+    "expected_response": "Directly maps their specific skills (technical and soft) and past experiences to the requirements mentioned in the job description. Should provide specific examples if possible.",
+    "grading_rubric": {
+      "excellent": "Strong, specific connections made between skills/experience and job requirements, confident delivery.",
+      "good": "Makes clear connections for key requirements.",
+      "fair": "Connections are weak or generic, relies on buzzwords without substance.",
+      "poor": "Cannot articulate the fit, misunderstands role requirements, irrelevant examples."
+    }
+  },
+  {
+    "category": "Motivations and Fit",
+    "question_number": 4,
+    "question_text": "Why are you interested in this position?",
+    "notes": null,
+    "expected_response": "Shows genuine enthusiasm based on research about the *specific* role and company. Mentions aspects of the job, company mission, or technology that genuinely appeal to them and align with their career goals. Avoid generic answers about just needing a job.",
+    "grading_rubric": {
+      "excellent": "Specific, enthusiastic answer showing understanding of the role/company, clear alignment with personal goals.",
+      "good": "Shows genuine interest, mentions relevant aspects of the role or company.",
+      "fair": "Generic answer (e.g., \"looking for a new challenge\"), lacks specificity.",
+      "poor": "Seems uninterested, complains about current job, gives nonsensical reasons."
+    }
+  },
+  {
+    "category": "Motivations and Fit",
+    "question_number": 5,
+    "question_text": "What do you know about our company?",
+    "notes": null,
+    "expected_response": "Demonstrates they have done basic research – mentioning products/services, company values, recent news, or mission. Shows they didn't apply randomly.",
+    "grading_rubric": {
+      "excellent": "Mentions specific, accurate details demonstrating thorough research and interest.",
+      "good": "Mentions general, accurate information (e.g., industry, main product).",
+      "fair": "Very superficial knowledge, potentially inaccurate details.",
+      "poor": "Knows nothing or confuses the company with another."
+    }
+  },
+  {
+    "category": "Motivations and Fit",
+    "question_number": 6,
+    "question_text": "What type of work environment do you prefer?",
+    "notes": null,
+    "expected_response": "Describes preferences (e.g., collaborative, autonomous, fast-paced) that align with the likely company culture. Shows self-awareness and an understanding of what helps them succeed.",
+    "grading_rubric": {
+      "excellent": "Thoughtful answer describing preferences that align well with the known/suspected company culture, positive framing.",
+      "good": "Describes preferences clearly, seems reasonably aligned.",
+      "fair": "Vague answer, or preferences seem potentially misaligned with the likely environment.",
+      "poor": "Describes preferences that starkly contrast with the likely environment, complains about past environments excessively."
+    }
+  },
+  {
+    "category": "Salary and Logistics",
+    "question_number": 7,
+    "question_text": "What are your salary expectations?",
+    "notes": null,
+    "expected_response": "Provides a realistic salary range based on their experience, skills, and market research for the role and location. Alternatively, can tactfully defer by stating they are flexible or need more information about the role's specifics, but should signal they are within a reasonable ballpark.",
+    "grading_rubric": {
+      "excellent": "Provides a well-researched, realistic range, or handles deferral professionally while indicating flexibility.",
+      "good": "Provides a range that is broadly realistic, or defers reasonably.",
+      "fair": "Range seems somewhat unrealistic (too high/low) without justification, or hesitant/awkward response.",
+      "poor": "Demands an unrealistic salary, refuses to discuss even a range, seems uninformed."
+    }
+  },
+  {
+    "category": "Salary and Logistics",
+    "question_number": 8,
+    "question_text": "If offered the position, how soon could you start?",
+    "notes": null,
+    "expected_response": "Clear, realistic timeframe (e.g., \"Immediately,\" \"After a standard two-week notice period\").",
+    "grading_rubric": {
+      "excellent": "Clear, specific, and reasonable timeframe provided.",
+      "good": "Provides a reasonable timeframe.",
+      "fair": "Vague or uncertain timeframe.",
+      "poor": "Unreasonable timeframe (e.g., needs months) without strong justification, evasive."
+    }
+  },
+  {
+    "category": "Salary and Logistics",
+    "question_number": 9,
+    "question_text": "Are you interviewing with other companies?",
+    "notes": null,
+    "expected_response": "Honest answer. It's okay to say yes; it can indicate they are in demand. Should convey continued interest in *this* role regardless. Professional framing.",
+    "grading_rubric": {
+      "excellent": "Honest and professional answer, reinforces interest in this role.",
+      "good": "Honest answer, handles the question appropriately.",
+      "fair": "Awkward or overly detailed answer, seems to be playing games.",
+      "poor": "Dishonest, unprofessional response, seems disinterested due to other options."
+    }
+  },
+  {
+    "category": "Candidate Engagement",
+    "question_number": 10,
+    "question_text": "Do you have any questions for me?",
+    "notes": null,
+    "expected_response": "Asks 1-3 thoughtful questions about the role, team, company culture, typical day, or next steps in the interview process. Shows engagement and preparation. Avoids questions easily answered by the job description or company website's front page. Having no questions can sometimes signal disinterest.",
+    "grading_rubric": {
+      "excellent": "Asks insightful, relevant questions demonstrating genuine interest and critical thinking.",
+      "good": "Asks relevant standard questions (e.g., about the team, next steps).",
+      "fair": "Asks questions that are very basic or easily found online, or only asks about salary/benefits at this early stage.",
+      "poor": "Has no questions, asks inappropriate questions."
+    }
+  },
+  {
+    "category": "Technical",
+    "question_number": 11,
+    "question_text": "How many years of experience do you have with [specific technology]?",
+    "notes": "Optional - Only if applicable. '[specific technology]' is a placeholder.",
+    "expected_response": "Clear, direct answer stating the number of years. Can briefly add context if needed (e.g., level of usage).",
+    "grading_rubric": {
+      "excellent": "Clear, confident, direct answer.",
+      "good": "Clear answer.",
+      "fair": "Vague or hesitant answer.",
+      "poor": "Avoids answering, seems dishonest or confused."
+    }
+  },
+  {
+    "category": "Technical",
+    "question_number": 12,
+    "question_text": "Can you briefly explain [basic concept relevant to the role]? (e.g., REST API for a software engineer)",
+    "notes": "Optional - Only if applicable. '[basic concept relevant to the role]' is a placeholder. Example provided: REST API for a software engineer.",
+    "expected_response": "A concise, accurate explanation of the concept in simple terms, demonstrating fundamental understanding.",
+    "grading_rubric": {
+      "excellent": "Clear, accurate, concise explanation demonstrating solid understanding.",
+      "good": "Mostly accurate explanation, understands the core idea.",
+      "fair": "Partially correct but struggles to articulate or has inaccuracies.",
+      "poor": "Incorrect explanation, doesn't know the concept, cannot explain."
+    }
+  }
+]
